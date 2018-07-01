@@ -1,0 +1,22 @@
+{
+  "name": "@distdns/types",
+  "version": "0.1.1",
+  "description": "dWeb Library For MultiCast DNS Types.",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^3.5.0",
+    "tape": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
